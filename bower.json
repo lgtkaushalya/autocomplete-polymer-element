@@ -1,0 +1,19 @@
+{
+  "name": "autocomplete",
+  "version": "0.0.0",
+  "authors": [
+    "Thilanka <lgtkaushalya@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "paper-input": "PolymerElements/paper-input#~1.1.1",
+    "polymer": "Polymer/polymer#~1.2.3"
+  }
+}
